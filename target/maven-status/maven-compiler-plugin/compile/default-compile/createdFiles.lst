@@ -1,0 +1,4 @@
+ar/unrn/modelo/Pagina.class
+ar/unrn/modelo/Post.class
+ar/unrn/api/BlogAPIElasticsearch.class
+ar/unrn/api/BlogAPIMongo.class
